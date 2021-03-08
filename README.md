@@ -1,4 +1,4 @@
-	<h1 align="center">Hi 👋, I'm Deep Pudasaini</h1>
+<h1 style="align:center;">Hi 👋, I'm Deep Pudasaini</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppudasaini&label=Profile%20views&color=0e75b6&style=flat-square" alt="deeppudasaini" /> </p>
@@ -9,7 +9,7 @@
 
 <h3 align="left">Contact me on: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deep-pudasaini-87bb921a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deep-pudasaini-87bb921a0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deep-pudasaini-87bb921a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" 	alt="deep-pudasaini-87bb921a0" height="30" width="40" /></a>
 
 
 </p>
